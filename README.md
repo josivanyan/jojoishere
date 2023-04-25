@@ -1,2 +1,2 @@
-tried to set from scratch, but cannot work well
+tried to set from scratch the whole day, but cannot run well
 used a model from the class
